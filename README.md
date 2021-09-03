@@ -9,4 +9,4 @@
 ##
 
   ![Snake animation](https://github.com/slowerdanilo/slowerdanilo/blob/output/github-contribution-grid-snake.svg)
-  
+
