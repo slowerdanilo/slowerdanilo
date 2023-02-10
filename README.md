@@ -11,7 +11,7 @@ Formações
 
 Tecnologias
 
--Java
--JavaScrypt (Node.js, ReactJs)
--Banco de Dados (MySql, SqlServer, MongoDB)
--API (REST, RESTful, GraphQl)
+- Java
+- JavaScrypt (Node.js, ReactJs)
+- Banco de Dados (MySql, SqlServer, MongoDB)
+- API (REST, RESTful, GraphQl)
