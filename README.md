@@ -11,7 +11,7 @@ Formações
 
 Tecnologias
 
-- Java (POO, Swing GUI)
+- Java
 - JavaScrypt (Node.js, ReactJs)
 - HTML
 - CSS
