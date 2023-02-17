@@ -12,8 +12,9 @@ Formações
 Tecnologias
 
 - Java
-- JavaScrypt (Node.js, ReactJs)
+- JavaScript (Node.js, ReactJs)
 - HTML
 - CSS
 - Banco de Dados (MySql, SqlServer, MongoDB)
 - API (REST, RESTful, GraphQl)
+- Git/Github
