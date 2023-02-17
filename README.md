@@ -11,7 +11,9 @@ Formações
 
 Tecnologias
 
-- Java
+- Java (POO, Swing GUI)
 - JavaScrypt (Node.js, ReactJs)
+- HTML
+- CSS
 - Banco de Dados (MySql, SqlServer, MongoDB)
 - API (REST, RESTful, GraphQl)
